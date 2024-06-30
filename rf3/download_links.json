@@ -1,5 +1,8 @@
 {
-    "new_game": "https://drive.google.com/uc?id=1rPQpKdwE2D4c96OpHNrLlKkHXk7VcXKI",
-    "update": "https://drive.google.com/uc?id=1E3TDoVnxTK58tNr6FZYldXF8S2Vlqkcq",
-    "update3": "https://drive.google.com/uc?id=1oIG_EYxVGB6AVS4nF8cPNxz-Nz8vnQQ0"
+    "new_game": {
+        "new_game.7z": "https://drive.google.com/uc?id=1rPQpKdwE2D4c96OpHNrLlKkHXk7VcXKI"
+    },
+    "update": {
+        "update.zip": "https://drive.google.com/uc?id=1oIG_EYxVGB6AVS4nF8cPNxz-Nz8vnQQ0"
+    }
 }
